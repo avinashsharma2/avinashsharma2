@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Avinash Sharma 
+- 👀 I’m interested in Python programming
+- 🌱 I’m currently learning pyhton and planning to learn one of frameworks of python
+- 📫 Reach me at mailavinashsharma@gmail.com
+- 😄 Pronouns: Topper, Padaku
+- ⚡ Fun fact: I am in class 9 in the year 2024-25
