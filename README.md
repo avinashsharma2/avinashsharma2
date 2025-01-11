@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a passionate developer always exploring new technologi
 
 Here are a few things I’ve worked on:
 
-- Python pr
+- [Python Projects](https://github.com/avinashsharma2/Python/tree/main/Year%202025)
 
 ---
 
