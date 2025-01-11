@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate developer always exploring new technologi
 - 🌱 I’m currently learning **Python**
 - 💼 Professionally **I am a student**
 - ⚡ Fun fact: **I love Basketball**
-- 📫 How to reach me: *email: mailavinashsharma@gmail.com**
+- 📫 How to reach me: **email: mailavinashsharma@gmail.com**
 
 ---
 
